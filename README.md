@@ -8,8 +8,5 @@
 - ✅ **Skills & Resume** – Highlights my technical skills and professional experience.
 - ✅ **Modern UI** – Designed with HTML, CSS, and Bootstrap for a sleek and interactive experience.
 
-## 🔹 Technologies Used
-
-
 ## 🔹 Live Demo
 🔗 [Visit the live demo of my portfolio here](https://Nojus-Satikauskas.github.io/PersonalWebsite/)
